@@ -13,6 +13,11 @@ A basic Electron application needs just these files:
 
 You can learn more about each of these components in depth within the [Tutorial](https://electronjs.org/docs/latest/tutorial/tutorial-prerequisites).
 
+
+### DEV Setup
+
+`npm start -- --no-sandbox`
+
 ## To Use
 
 To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
